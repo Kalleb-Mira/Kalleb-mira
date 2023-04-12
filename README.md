@@ -5,9 +5,9 @@
  <br/> 
 
 
-- 🌱 Atualmente estou aprendendo: **JavaScript e React.**
+- 🌱 Atualmente estou aprendendo: **React.Js e Node.Js**
 
-- 💬 Pergunte-me sobre: **HTML e CSS.**
+- 💬 Pergunte-me sobre: **CSS e JavaScript**
 
 - 📫 Como chegar até mim: **kallebalves1@outlook.com**
 

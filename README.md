@@ -34,7 +34,7 @@
   <div align="center">
   
   [![Kalleb GitHub stats](https://github-readme-stats.vercel.app/api?username=kalleb-mira&show_icons=true&theme=transparent&hide=stars,issues,contribs)](https://github.com/kalleb-mira/github-readme-stats)
-  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalleb-mira&show_icons=true&locale=en&layout=compact" alt="kalleb-mira" />
+  <img width="auto" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalleb-mira&show_icons=true&locale=en&layout=compact" alt="kalleb-mira" />
   
   <div/>
 
